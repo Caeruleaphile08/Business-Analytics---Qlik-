@@ -1,4 +1,4 @@
-# Road Safety in India - Qlik Sense Analysis
+# Qlik Analysis Of Road Safety And Accident Patterns In India
 
 ## Overview
 This project aims to analyze road safety and accident patterns in India using the Qlik Sense Cloud platform. The analysis provides insights into the frequency, causes, and consequences of road accidents across different regions in India.
@@ -10,6 +10,9 @@ The dataset used for this analysis is "ROAD ACCIDENTS IN INDIA," available on Ka
 ## Software Used
 - **Qlik Sense Cloud**: A comprehensive data analytics and visualization platform.
 
+## Category
+- Data Analytics
+  
 ## Project Components
 
 1. **Visualization pdf**:
